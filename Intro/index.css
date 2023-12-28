@@ -1,0 +1,54 @@
+.from_test{
+    background-color: aqua;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100%;
+}
+
+.circle {
+    background-color: green;
+    display: inline-block; 
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%; 
+}
+
+.random_offset{
+    width: 7rem;
+    height: 7rem;
+    background-color: burlywood;
+    border-radius: 100%;
+}
+
+.timeline{
+    display: flex;
+}
+
+.timeline_test1{
+    width: 7rem;
+    height: 7rem;
+    background-color: rgb(4, 0, 255);
+    border-radius: 100%;
+}
+
+.timeline_test2{
+    width: 7rem;
+    height: 7rem;
+    background-color: rgb(235, 18, 144);
+    border-radius: 100%;
+}
+
+
+.timeline_label1{
+    width: 7rem;
+    height: 7rem;
+    background-color: rgb(238, 255, 0);
+    border-radius: 100%;
+}
+
+.timeline_label2{
+    width: 7rem;
+    height: 7rem;
+    background-color: rgb(43, 235, 18);
+    border-radius: 100%;
+}
